@@ -1,0 +1,28 @@
+Pilhas e Filas
+
+-> São políticas de acesso impostas a certas estruturas de dados
+-> Formas de implementação
+    Vetores :
+        - estaticos
+        - dinâmicos
+    Listas ;
+        - simplesmente encadeadas
+        - duplamente encadeadas
+
+
+Pilhas / Stacks
+
+-> Operações
+    Push - Inserir na pilha
+    Pop  - Remove da pilha
+
+-> São estruturas do tipo LIFO (Last In First Out), ou no português UEPS (Ultimo a Entrar, Primeiro a Sair)
+
+
+Filas / Queues
+
+-> Operações
+    Enqueue - Inserir elementos na pilha (enfilera)
+    Dequeue - Remove elementos na pilha (Desenfilera)
+
+-> São estruturas do tipo FIFO (First in First Out), ou, no português, PEPS (Primeiro a Entrar Primeiro a Sair)
